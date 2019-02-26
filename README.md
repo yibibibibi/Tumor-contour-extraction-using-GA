@@ -1,4 +1,4 @@
-# -
+# - 基于遗传算法进行肿瘤轮廓提取的技术研究
 在XFDTD电磁仿真软件中建立一个二维的乳腺肿瘤模型，利用遗传算法优化找到肿瘤的轮廓，最大分辨率为1mm.
 这个项目包含以下几个主要运行程序。
 - runCAMain:这是项目的主要运行程序;             
@@ -12,3 +12,4 @@
 - fittxt:最优值函数的设置方法。
 - calResult：基于XFDTD软件利用命令行多线程运行FDTD文件。
 下面是函数调用的图结构：
+-![avatar](https://github.com/yibibibibi/-/blob/master/%E5%87%BD%E6%95%B0%E8%B0%83%E7%94%A8%E5%9B%BE.jpg)
